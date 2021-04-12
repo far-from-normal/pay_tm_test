@@ -115,3 +115,4 @@ dmypy.json
 
 # Data
 *.csv
+/data
